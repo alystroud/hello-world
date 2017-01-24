@@ -1,5 +1,5 @@
 # hello-world
 First repository
 
-Hello, world.\n
+Hello, world.
 This is my first github repository!
